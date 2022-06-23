@@ -1,0 +1,39 @@
+female_adult brain perineurial glial cell
+female_adult lamina epithelial.marginal glial cell
+female_adult reticular neuropil associated glial cell
+female_alpha'.beta' Kenyon cell
+female_auditory sensory neuron
+female_columnar neuron T1
+female_cone cell
+female_ensheathing glial cell
+female_epithelial cell
+female_gamma Kenyon cell
+female_hemocyte
+female_Johnston organ neuron
+female_lamina monopolar neuron L1
+female_lamina monopolar neuron L2
+female_lamina monopolar neuron L3
+female_lamina monopolar neuron L4
+female_medullary intrinsic neuron Mi1
+female_olfactory receptor neuron
+female_optic-lobe-associated cortex glial cell
+female_outer photoreceptor cell
+female_photoreceptor cell R8
+female_pigment cell
+female_skeletal muscle of head
+male_adult brain perineurial glial cell
+male_adult lamina epithelial.marginal glial cell
+male_adult reticular neuropil associated glial cell
+male_auditory sensory neuron
+male_columnar neuron T1
+male_cone cell
+male_ensheathing glial cell
+male_epithelial cell
+male_gamma Kenyon cell
+male_Johnston organ neuron
+male_lamina monopolar neuron L2
+male_lamina monopolar neuron L3
+male_optic-lobe-associated cortex glial cell
+male_outer photoreceptor cell
+male_photoreceptor cell R8
+male_skeletal muscle of head

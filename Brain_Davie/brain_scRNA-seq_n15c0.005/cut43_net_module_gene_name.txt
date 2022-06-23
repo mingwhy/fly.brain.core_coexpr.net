@@ -1,0 +1,190 @@
+SYMBOL	FLYBASE	GENENAME	module
+DnaJ-1	FBgn0263106	DnaJ-like-1	1
+Hsp23	FBgn0001224	Heat shock protein 23	1
+Hsp26	FBgn0001225	Heat shock protein 26	1
+Hsp68	FBgn0001230	Heat shock protein 68	1
+Hsp83	FBgn0001233	Heat shock protein 83	1
+lncRNA:alphagamma-element:CR32865	FBgn0052865	alphagamma-element:CR32865	1
+stv	FBgn0086708	starvin	1
+eEF1alpha1	FBgn0284245	eukaryotic translation elongation factor 1 alpha 1	2
+eEF1alpha2	FBgn0000557	eukaryotic translation elongation factor 1 alpha 2	2
+eIF3m	FBgn0033902	eukaryotic translation initiation factor 3 subunit m	2
+Rack1	FBgn0020618	Receptor of activated protein kinase C 1	2
+ringer	FBgn0266417	ringmaker	2
+RpL12	FBgn0034968	Ribosomal protein L12	2
+RpL13	FBgn0011272	Ribosomal protein L13	2
+RpL13A	FBgn0037351	Ribosomal protein L13A	2
+RpL14	FBgn0017579	Ribosomal protein L14	2
+RpL17	FBgn0029897	Ribosomal protein L17	2
+RpL18	FBgn0035753	Ribosomal protein L18	2
+RpL18A	FBgn0010409	Ribosomal protein L18A	2
+RpL21	FBgn0032987	Ribosomal protein L21	2
+RpL22	FBgn0015288	Ribosomal protein L22	2
+RpL23A	FBgn0026372	Ribosomal protein L23A	2
+RpL26	FBgn0036825	Ribosomal protein L26	2
+RpL27	FBgn0039359	Ribosomal protein L27	2
+RpL27A	FBgn0285948	Ribosomal protein L27A	2
+RpL28	FBgn0035422	Ribosomal protein L28	2
+RpL29	FBgn0016726	Ribosomal protein L29	2
+RpL3	FBgn0020910	Ribosomal protein L3	2
+RpL31	FBgn0285949	Ribosomal protein L31	2
+RpL32	FBgn0002626	Ribosomal protein L32	2
+RpL34b	FBgn0037686	Ribosomal protein L34b	2
+RpL35	FBgn0029785	Ribosomal protein L35	2
+RpL35A	FBgn0037328	Ribosomal protein L35A	2
+RpL36A	FBgn0031980	Ribosomal protein L36A	2
+RpL38	FBgn0040007	Ribosomal protein L38	2
+RpL39	FBgn0023170	Ribosomal protein L39	2
+RpL4	FBgn0003279	Ribosomal protein L4	2
+RpL5	FBgn0064225	Ribosomal protein L5	2
+RpL6	FBgn0039857	Ribosomal protein L6	2
+RpL7	FBgn0005593	Ribosomal protein L7	2
+RpL7A	FBgn0014026	Ribosomal protein L7A	2
+RpL8	FBgn0261602	Ribosomal protein L8	2
+RpL9	FBgn0015756	Ribosomal protein L9	2
+RpLP0	FBgn0000100	Ribosomal protein LP0	2
+RpLP1	FBgn0002593	Ribosomal protein LP1	2
+RpLP2	FBgn0003274	Ribosomal protein LP2	2
+RpS10b	FBgn0285947	Ribosomal protein S10b	2
+RpS11	FBgn0033699	Ribosomal protein S11	2
+RpS12	FBgn0286213	Ribosomal protein S12	2
+RpS13	FBgn0010265	Ribosomal protein S13	2
+RpS14a	FBgn0004403	Ribosomal protein S14a	2
+RpS14b	FBgn0004404	Ribosomal protein S14b	2
+RpS15	FBgn0034138	Ribosomal protein S15	2
+RpS15Aa	FBgn0010198	Ribosomal protein S15Aa	2
+RpS16	FBgn0034743	Ribosomal protein S16	2
+RpS17	FBgn0005533	Ribosomal protein S17	2
+RpS19a	FBgn0010412	Ribosomal protein S19a	2
+RpS2	FBgn0004867	Ribosomal protein S2	2
+RpS20	FBgn0019936	Ribosomal protein S20	2
+RpS21	FBgn0015521	Ribosomal protein S21	2
+RpS23	FBgn0033912	Ribosomal protein S23	2
+RpS24	FBgn0261596	Ribosomal protein S24	2
+RpS25	FBgn0086472	Ribosomal protein S25	2
+RpS26	FBgn0261597	Ribosomal protein S26	2
+RpS27A	FBgn0003942	Ribosomal protein S27A	2
+RpS28b	FBgn0030136	Ribosomal protein S28b	2
+RpS29	FBgn0261599	Ribosomal protein S29	2
+RpS3	FBgn0002622	Ribosomal protein S3	2
+RpS30	FBgn0038834	Ribosomal protein S30	2
+RpS3A	FBgn0017545	Ribosomal protein S3A	2
+RpS4	FBgn0011284	Ribosomal protein S4	2
+RpS5a	FBgn0002590	Ribosomal protein S5a	2
+RpS6	FBgn0261592	Ribosomal protein S6	2
+RpS8	FBgn0039713	Ribosomal protein S8	2
+RpS9	FBgn0010408	Ribosomal protein S9	2
+sta	FBgn0003517	stubarista	2
+Tctp	FBgn0037874	Translationally controlled tumor protein	2
+Argk1	NA	NA	3
+ATPsynB	FBgn0019644	ATP synthase, subunit B	3
+ATPsynC	FBgn0039830	ATP synthase, subunit C	3
+ATPsynCF6	FBgn0016119	ATP synthase, coupling factor 6	3
+ATPsynD	FBgn0016120	ATP synthase, subunit D	3
+ATPsyndelta	FBgn0028342	ATP synthase, delta subunit	3
+ATPsynE	FBgn0038224	ATP synthase, subunit E	3
+ATPsynF	FBgn0035032	ATP synthase, subunit F	3
+ATPsynG	FBgn0010612	ATP synthase, subunit G	3
+ATPsyngamma	FBgn0020235	ATP synthase, gamma subunit	3
+ATPsynO	FBgn0016691	ATP synthase, oligomycin sensitivity conferring protein	3
+blw	FBgn0011211	bellwether	3
+Cchl	FBgn0038925	Cytochrome c heme lyase	3
+CG11267	FBgn0036334	uncharacterized protein	3
+CG11752	FBgn0030292	uncharacterized protein	3
+CG14757	FBgn0033274	uncharacterized protein	3
+CG31808	FBgn0062978	uncharacterized protein	3
+CG32278	FBgn0052278	uncharacterized protein	3
+CG44242	FBgn0265177	uncharacterized protein	3
+CG6329	FBgn0033872	uncharacterized protein	3
+CG7430	FBgn0036762	uncharacterized protein	3
+CG7630	FBgn0040793	uncharacterized protein	3
+Cisd2	FBgn0062442	CDGSH iron sulfur domain 2	3
+COX4	FBgn0032833	Cytochrome c oxidase subunit 4	3
+COX5A	FBgn0019624	Cytochrome c oxidase subunit 5A	3
+COX5B	FBgn0031830	Cytochrome c oxidase subunit 5B	3
+COX6B	FBgn0031066	Cytochrome c oxidase subunit 6B	3
+COX7A	FBgn0040529	Cytochrome c oxidase subunit 7A	3
+COX7C	FBgn0040773	Cytochrome c oxidase subunit 7C	3
+COX8	FBgn0263911	Cytochrome c oxidase subunit 8	3
+cype	FBgn0015031	cyclope	3
+Cyt-c-p	FBgn0284248	Cytochrome c proximal	3
+Gapdh1	FBgn0001091	Glyceraldehyde 3 phosphate dehydrogenase 1	3
+Gpdh1	FBgn0001128	Glycerol-3-phosphate dehydrogenase 1	3
+Idh3a	FBgn0027291	Isocitrate dehydrogenase 3a	3
+levy	FBgn0034877	levy	3
+Mic26-27	NA	NA	3
+Mpcp2	FBgn0026409	Mitochondrial phosphate carrier protein 2	3
+ND-13B	FBgn0047038	NADH dehydrogenase (ubiquinone) 13 kDa B subunit	3
+ND-15	FBgn0031228	NADH dehydrogenase (ubiquinone) 15 kDa subunit	3
+ND-18	FBgn0031021	NADH dehydrogenase (ubiquinone) 18 kDa subunit	3
+ND-19	FBgn0035046	NADH dehydrogenase (ubiquinone) 19 kDa subunit	3
+ND-20	FBgn0030718	NADH dehydrogenase (ubiquinone) 20 kDa subunit	3
+ND-24	FBgn0030853	NADH dehydrogenase (ubiquinone) 24 kDa subunit	3
+ND-30	FBgn0266582	NADH dehydrogenase (ubiquinone) 30 kDa subunit	3
+ND-42	FBgn0019957	NADH dehydrogenase (ubiquinone) 42 kDa subunit	3
+ND-49	FBgn0039909	NADH dehydrogenase (ubiquinone) 49 kDa subunit	3
+ND-ACP	FBgn0011361	NADH dehydrogenase (ubiquinone) acyl carrier protein	3
+ND-ASHI	FBgn0029888	NADH dehydrogenase (ubiquinone) ASHI subunit	3
+ND-B14	FBgn0033570	NADH dehydrogenase (ubiquinone) B14 subunit	3
+ND-B14.5A	FBgn0025839	NADH dehydrogenase (ubiquinone) B14.5 A subunit	3
+ND-B14.5B	FBgn0031505	NADH dehydrogenase (ubiquinone) B14.5 B subunit	3
+ND-B15	FBgn0033961	NADH dehydrogenase (ubiquinone) B15 subunit	3
+ND-B17	FBgn0001989	NADH dehydrogenase (ubiquinone) B17 subunit	3
+ND-B17.2	FBgn0031436	NADH dehydrogenase (ubiquinone) B17.2 subunit	3
+ND-B18	FBgn0030605	NADH dehydrogenase (ubiquinone) B18 subunit	3
+ND-B22	FBgn0032511	NADH dehydrogenase (ubiquinone) B22 subunit	3
+ND-MLRQ	FBgn0052230	NADH dehydrogenase (ubiquinone) MLRQ subunit	3
+ND-MWFE	FBgn0085468	NADH dehydrogenase (ubiquinone) MWFE subunit	3
+ND-PDSW	FBgn0021967	NADH dehydrogenase (ubiquinone) PDSW subunit	3
+Neb-cGP	FBgn0083167	Neb-cGP	3
+NP15.6	FBgn0027785	NP15.6	3
+nrv3	FBgn0032946	nervana 3	3
+ox	FBgn0011227	oxen	3
+Pdha	FBgn0028325	Pyruvate dehydrogenase E1 alpha subunit	3
+Pgk	FBgn0250906	Phosphoglycerate kinase	3
+porin	FBgn0004363	porin	3
+QIL1	FBgn0036726	QIL1	3
+RFeSP	FBgn0021906	Rieske iron-sulfur protein	3
+roh	FBgn0250838	reduction of Rh1	3
+Scsalpha1	FBgn0004888	Succinyl-coenzyme A synthetase alpha subunit 1	3
+SdhD	FBgn0039112	Succinate dehydrogenase, subunit D	3
+sesB	FBgn0003360	stress-sensitive B	3
+Tom20	FBgn0036928	Translocase of outer membrane 20	3
+Tpi	FBgn0086355	Triose phosphate isomerase	3
+Tsp42Ej	FBgn0033132	Tetraspanin 42Ej	3
+UQCR-11	FBgn0260008	Ubiquinol-cytochrome c reductase 11 kDa subunit	3
+UQCR-14	FBgn0030733	Ubiquinol-cytochrome c reductase 14 kDa subunit	3
+UQCR-6.4	FBgn0034245	Ubiquinol-cytochrome c reductase 6.4 kDa subunit	3
+UQCR-C1	FBgn0038271	Ubiquinol-cytochrome c reductase core protein 1	3
+UQCR-C2	FBgn0250814	Ubiquinol-cytochrome c reductase core protein 2	3
+UQCR-Q	FBgn0036728	Ubiquinol-cytochrome c reductase ubiquinone-binding protein	3
+Ypel	NA	NA	3
+AP-2sigma	FBgn0043012	Adaptor Protein complex 2, sigma subunit	4
+Atg8a	FBgn0052672	Autophagy-related 8a	4
+CaMKII	FBgn0264607	Calcium/calmodulin-dependent protein kinase II	4
+CG3662	FBgn0031285	uncharacterized protein	4
+CG3793	FBgn0028507	uncharacterized protein	4
+CG7407	FBgn0037134	uncharacterized protein	4
+CG7781	FBgn0032021	uncharacterized protein	4
+Eno	FBgn0000579	Enolase	4
+Fis1	FBgn0039969	Fission, mitochondrial 1	4
+gammaSnap1	FBgn0028552	gamma Soluble NSF attachment protein 1	4
+Gapdh2	FBgn0001092	Glyceraldehyde 3 phosphate dehydrogenase 2	4
+Gbeta5	FBgn0030011	Gbeta5	4
+Glut4EF	FBgn0267336	Glucose transporter 4 enhancer factor	4
+lola	FBgn0283521	longitudinals lacking	4
+nSyb	FBgn0013342	neuronal Synaptobrevin	4
+Pgi	FBgn0003074	Phosphoglucose isomerase	4
+Pglym78	FBgn0014869	Phosphoglyceromutase 78	4
+PyK	FBgn0267385	Pyruvate kinase	4
+RNASEK	FBgn0262116	Ribonuclease kappa	4
+Sap47	FBgn0013334	Synapse-associated protein 47kD	4
+shi	FBgn0003392	shibire	4
+veli	FBgn0039269	veli	4
+Vha13	FBgn0283536	Vacuolar H[+] ATPase 13kD subunit	4
+Vha14-1	FBgn0262512	Vacuolar H[+] ATPase 14kD subunit 1	4
+Vha16-1	FBgn0262736	Vacuolar H[+] ATPase 16kD subunit 1	4
+Vha36-1	FBgn0022097	Vacuolar H[+] ATPase 36kD subunit 1	4
+Vha44	FBgn0262511	Vacuolar H[+] ATPase 44kD subunit	4
+Vha68-1	FBgn0265262	Vacuolar H[+] ATPase 68kD subunit 1	4
+VhaAC39-1	FBgn0285910	Vacuolar H[+] ATPase AC39 subunit 1	4

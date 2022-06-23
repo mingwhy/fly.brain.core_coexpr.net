@@ -1,0 +1,81 @@
+annotation,female,male
+adult brain cell body glial cell,24,41
+adult brain perineurial glial cell,856,733
+adult fat body,53,44
+adult lamina epithelial/marginal glial cell,511,432
+adult olfactory receptor neuron Gr21a/63a,2,4
+adult optic chiasma glial cell,155,153
+adult reticular neuropil associated glial cell,466,438
+alpha'/beta' Kenyon cell,221,195
+alpha/beta Kenyon cell,241,244
+antennal lobe projection neuron,7,16
+antennal trichoid sensillum at4,3,4
+auditory sensory neuron,345,341
+centrifugal neuron C2,255,211
+centrifugal neuron C3,316,262
+columnar neuron T1,831,751
+cone cell,2601,2544
+distal medullary amacrine neuron Dm10,154,121
+distal medullary amacrine neuron Dm11,2,1
+distal medullary amacrine neuron Dm12,51,42
+distal medullary amacrine neuron Dm3,144,120
+distal medullary amacrine neuron Dm8,152,151
+distal medullary amacrine neuron Dm9,95,129
+dopaminergic neuron,12,10
+dopaminergic PAM neuron,130,151
+dorsal rim area,1,1
+ensheathing glial cell,953,840
+epithelial cell,2560,1998
+gamma Kenyon cell,543,556
+hemocyte,219,125
+Johnston organ neuron,281,225
+Kenyon cell,49,63
+lamina intrinsic amacrine neuron Lai,174,188
+lamina monopolar neuron L1,446,433
+lamina monopolar neuron L2,600,603
+lamina monopolar neuron L3,501,497
+lamina monopolar neuron L4,306,320
+lamina monopolar neuron L5,285,230
+lamina wide-field 1 neuron,92,87
+lamina wide-field 2 neuron,107,102
+lobula columnar neuron LC10,82,93
+lobula columnar neuron LC12,35,34
+lobula columnar neuron LC17,156,176
+medullary intrinsic neuron Mi1,495,483
+medullary intrinsic neuron Mi15,152,112
+medullary intrinsic neuron Mi4,327,283
+medullary intrinsic neuron Mi9,130,106
+ocellus retinula cell,43,18
+octopaminergic/tyraminergic neuron,54,63
+olfactory receptor neuron,708,620
+optic-lobe-associated cortex glial cell,292,257
+outer photoreceptor cell,2828,3000
+pericerebral adult fat mass,110,78
+perineurial glial sheath,2,4
+photoreceptor cell R7,213,238
+photoreceptor cell R8,700,733
+photoreceptor-like,73,44
+pigment cell,684,628
+Poxn neuron,46,54
+proximal medullary amacrine neuron Pm2,42,47
+proximal medullary amacrine neuron Pm4,31,32
+skeletal muscle of head,823,683
+subperineurial glial cell,139,131
+T neuron T2,299,285
+T neuron T2a,323,269
+T neuron T3,313,269
+T neuron T4/T5,178,194
+T neuron T4/T5a-b,773,614
+T neuron T4/T5c-d,334,306
+transmedullary neuron Tm1,474,447
+transmedullary neuron Tm2,386,317
+transmedullary neuron Tm20,129,118
+transmedullary neuron Tm29,59,55
+transmedullary neuron Tm3a,309,252
+transmedullary neuron Tm4,305,241
+transmedullary neuron Tm5c,88,70
+transmedullary neuron Tm9,131,115
+transmedullary Y neuron TmY14,69,76
+transmedullary Y neuron TmY4,66,58
+transmedullary Y neuron TmY5a,235,192
+transmedullary Y neuron TmY8,204,162

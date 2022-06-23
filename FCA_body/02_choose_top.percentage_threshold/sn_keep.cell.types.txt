@@ -1,0 +1,31 @@
+female_adult fat body
+female_adult glial cell
+female_adult oenocyte
+female_adult peripheral nervous system
+female_adult tracheal cell
+female_adult ventral nervous system
+female_cell body glial cell
+female_eo support cell
+female_epithelial cell
+female_escort cell
+female_follicle cell
+female_hemocyte
+female_indirect flight muscle
+female_leg taste bristle chemosensory neuron
+female_muscle cell
+female_perineurial glial sheath
+female_scolopidial neuron
+male_adult fat body
+male_adult glial cell
+male_adult oenocyte
+male_adult peripheral nervous system
+male_adult tracheal cell
+male_adult ventral nervous system
+male_cell body glial cell
+male_eo support cell
+male_epithelial cell
+male_follicle cell
+male_hemocyte
+male_indirect flight muscle
+male_muscle cell
+male_subperineurial glial cell

@@ -1,0 +1,29 @@
+annotation,female,male
+adult fat body,1512,1595
+adult glial cell,522,695
+adult hindgut,172,127
+adult oenocyte,660,526
+adult peripheral nervous system,1440,1068
+adult reticular neuropil associated glial cell,134,121
+adult tracheal cell,887,523
+adult ventral nervous system,5100,4196
+cell body glial cell,387,351
+CNS surface associated glial cell,18,46
+enteroendocrine cell,78,47
+eo support cell,271,276
+epithelial cell,7891,8209
+escort cell,208,7
+follicle cell,7037,305
+follicle cell St. 9+,31,5
+gustatory receptor neuron,6,5
+hemocyte,390,226
+indirect flight muscle,4491,1893
+leg muscle motor neuron,202,120
+leg taste bristle chemosensory neuron,305,274
+multidendritic neuron,51,30
+muscle cell,19563,8080
+perineurial glial sheath,246,399
+polar follicle cell,28,
+prefollicle cell/stalk follicle cell,104,
+scolopidial neuron,343,291
+subperineurial glial cell,156,200
