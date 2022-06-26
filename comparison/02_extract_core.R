@@ -19,14 +19,14 @@ datasets=c('brain, Davie et al. 2018','brain, Baker et al. 2021',
 
 if(T){
   # validate on flybase: common.gene_CGgenes_FlyBase_IDs.txt
-  gene.meta=read.table('~/Documents/fly.brain_coexpr.net_2022.06/Brain_Baker/common.gene_CGgenes_FlyBase_IDs.txt',header=F)
+  gene.meta=read.table('~/Documents/fly.brain_coexpr.net_2022.06/fly.brain_coexpr.net_2022.06_github/Brain_Baker/common.gene_CGgenes_FlyBase_IDs.txt',header=F)
   colnames(gene.meta)<-c('CG','FBgn','symbol')
   
   cutoffs=c(12,10,6,11)
-  files=c('~/Documents/fly.brain_coexpr.net_2022.06/Brain_Davie/brain_scRNA-seq_n15c0.005_bigScale2/top_0.05_pan.rds',
-          '~/Documents/fly.brain_coexpr.net_2022.06/Brain_Baker/brain_scRNA-seq_n15c0.005_bigScale2/top_0.05_pan.rds',
-          '~/Documents/fly.brain_coexpr.net_2022.06/FCA_head/brain_snRNA-seq_n15c0.005_bigScale2/top_0.05_pan.rds',
-          '~/Documents/fly.brain_coexpr.net_2022.06/FCA_body/brain_snRNA-seq_n15c0.005_bigScale2/top_0.05_pan.rds')
+  files=c('~/Documents/fly.brain_coexpr.net_2022.06/fly.brain_coexpr.net_2022.06_github/Brain_Davie/brain_scRNA-seq_n15c0.005_bigScale2/top_0.05_pan.rds',
+          '~/Documents/fly.brain_coexpr.net_2022.06/fly.brain_coexpr.net_2022.06_github/Brain_Baker/brain_scRNA-seq_n15c0.005_bigScale2/top_0.05_pan.rds',
+          '~/Documents/fly.brain_coexpr.net_2022.06/fly.brain_coexpr.net_2022.06_github/FCA_head/brain_snRNA-seq_n15c0.005_bigScale2/top_0.05_pan.rds',
+          '~/Documents/fly.brain_coexpr.net_2022.06/fly.brain_coexpr.net_2022.06_github/FCA_body/brain_snRNA-seq_n15c0.005_bigScale2/top_0.05_pan.rds')
   
   cores<-lapply(1:4,function(ii){
     cut=cutoffs[ii]
@@ -65,22 +65,31 @@ if(T){
     df.g
   })
   edges<-lapply(edges.df,function(x){
-    apply(x[,c(1,2)],1,function(j) paste(sort(as.character(j)),collapse = ';')) 
+    tmp=apply(x[,c(1,2)],1,function(j) paste(sort(as.character(j)),collapse = ';')) 
+    tmp[!duplicated(tmp)]
   })
   
   names(edges)=datasets
   sapply(edges,length)
+  #brain, Davie et al. 2018 brain, Baker et al. 2021     head, Li et al. 2022     body, Li et al. 2022 
+  #69664                    39032                    29413                     2357 
+  sapply(edges,function(tmp){
+    length(unique(unlist(lapply(tmp,function(i){strsplit(i,';')})))) #1169
+  })
+  #brain, Davie et al. 2018 brain, Baker et al. 2021     head, Li et al. 2022     body, Li et al. 2022 
+  #1428                     1169                      630                      244  
   saveRDS(list(cores=cores,edges=edges,edges.df=edges.df),'extract_core.rds')
 }
 x=readRDS('extract_core.rds')
 cores=x$cores
 edges=x$edges
 edges.df=x$edges.df
-v.genes<-venn(edges)
-text(200,400,'Venn diagram of core edges',cex=2)
+#v.genes<-venn(edges)
+#text(200,400,'Venn diagram of core edges',cex=2)
 
 for(i in 1:4){
-  tmp=edges.df[[i]]
+  #tmp=edges.df[[i]]
+  tmp=as.data.frame(edges[[i]])
   data.table::fwrite(tmp,paste0(datasets[[i]],'.txt'))
 }
 
