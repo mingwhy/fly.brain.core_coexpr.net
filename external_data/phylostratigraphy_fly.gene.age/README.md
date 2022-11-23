@@ -12,7 +12,7 @@ go get fly gene ages.
 
 More information could be found here:
 
-https://github.com/mingwhy/bioinfo_homemade_tools/tree/main/Phylostratigraphy_fly.gene_age
+https://github.com/mingwhy/bioinfo_homemade_tools/tree/main/dataBase/Phylostratigraphy_fly.gene_age
 
 
 
